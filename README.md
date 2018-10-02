@@ -8,3 +8,5 @@ Thus I just copy the result of corresponding previous layers without cropping, a
 # Data
 I use the data set in ***ISBI Challenge: Segmentation of neuronal structures in EM stacks***(http://brainiac2.mit.edu/isbi_challenge/)
 THe data set have been downloaded to folder data_set/train and data_set/label
+
+
